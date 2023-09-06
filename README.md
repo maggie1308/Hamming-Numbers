@@ -1,4 +1,4 @@
-#Hamming Numbers
+# Hamming Numbers
 
 A Hamming number is a positive integer of the form 2i3j5k, for some non-negative integers i, j, and k.
 
@@ -14,4 +14,3 @@ The fifth smallest Hamming number is 5 = 203051
 The 20 smallest Hamming numbers are given in the Example test fixture.
 ```
 Your code should be able to compute the first ( LC: , Clojure: , NASM, C, C++, Go and Rust: ) Hamming numbers without timing out.5 0004002 00013 282
-
